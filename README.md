@@ -1,4 +1,4 @@
-# CollectiveDunes 
+# [CollectiveDunes ](https://github.com/Gvln-S/Collective_Dunes)
 
 **CollectiveDunes** is an interactive, real-time multiplayer web application that brings the classic "falling sand" simulation to a collaborative environment. Built with a robust **Spring Boot** backend and a high-performance **TypeScript** frontend, the application leverages a **Service-Oriented Architecture (SOA)** to ensure seamless synchronization and real-time interaction among multiple users.
 
